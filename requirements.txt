@@ -1,0 +1,9 @@
+gradio
+transformers
+datasets
+torch
+evaluate
+accelerate
+scikit-learn
+pandas
+sentencepiece
